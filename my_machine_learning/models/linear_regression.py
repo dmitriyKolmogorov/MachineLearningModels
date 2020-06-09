@@ -1,6 +1,5 @@
 import numpy as np
 from sklearn.metrics import r2_score
-from sklearn.datasets import load_boston
 
 
 # TODO: add regularization and sample weights
