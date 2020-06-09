@@ -95,16 +95,6 @@ class LinearRegression(object):
         
         return predictions - y
 
-
-    def __normalize(self, X) -> np.ndarray:
-        '''
-        "Private" method for normalization.
-        '''
-
-        X_norm = np.linalg.norm(X)
-
-        return X / X_norm
-
     
     def __set_weights(self, X):
         '''
