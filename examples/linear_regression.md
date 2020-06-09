@@ -1,4 +1,4 @@
-Examples of using my_machine_learning.models.linear_regression.LinearRegression.
+Examples of using `my_machine_learning.models.linear_regression.LinearRegression.`
 
 # 1. Importing
 ```python
